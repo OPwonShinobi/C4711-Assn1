@@ -8,6 +8,10 @@ Team membership:
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+## [0.0.17] - 2018-04-06
+### Changed
+- Moved js around to fix null getElementByID call caused by adding DOMs to late
+
 ## [0.0.16] - 2018-04-06
 ### Added
 - Added tooltips of item info as tooltip/title tag on homepage, doesn't need it on equipment page
