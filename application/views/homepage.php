@@ -1,7 +1,5 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/homepage.css"/>
-<script src="/assets/js/homepage.js" type="text/javascript"></script>
 <div class="POE_main">
-	
 		<h1 id="homepage-title">Welcome to Path of Exile Inventory Simulator!</h1>
 		<div class="homepage-content">
             <div id="preset-dropdown">
@@ -56,9 +54,9 @@
 					<div id="weaponTab" class="tabContent"></div>
 		    	</div>
         	</div>
-    
             <p> This is a customized <strong>Path of Exile</strong> custom equipment build.</p>
             <p> The project consists of weapons and armors for the user to choose and build.</p>
             <p> We are dedicated provide the best gaming experience for you!</p>
 		</div>
 </div>
+<script src="/assets/js/homepage.js" type="text/javascript"></script>
